@@ -2,6 +2,9 @@ namespace Leetcode.Easy
 {
     using System;
     using System.Collections.Generic;
+    //TASK
+    //Figure out what two numbers from array sum up to target value.
+    //Output - indexes of these numbers in array
 
     //EXAMPLE
 
